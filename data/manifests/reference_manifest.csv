@@ -1,0 +1,6 @@
+filename,size_bytes,sha256,source_url,role
+Homo_sapiens.GRCh38.cdna.all.release87.fa.gz,64049642,9d77df788bc30aa86d6aa8d4b8d5bbe9d9c2a0ae6c0a8eda600524685aa11875,https://ftp.ensembl.org/pub/release-87/fasta/homo_sapiens/cdna/Homo_sapiens.GRCh38.cdna.all.fa.gz,downloaded_original
+Homo_sapiens.GRCh38.ncrna.release87.fa.gz,9229363,95794bff3e760fab9f855a92a0c6d325d5d425e9f737d168235bac1939fad6ea,https://ftp.ensembl.org/pub/release-87/fasta/homo_sapiens/ncrna/Homo_sapiens.GRCh38.ncrna.fa.gz,downloaded_original
+Homo_sapiens.GRCh38.87.gtf.gz,45733950,9e8643982742980f81277865b5a1d543a02fa2bfe889acffaf797436950d9ebe,https://ftp.ensembl.org/pub/release-87/gtf/homo_sapiens/Homo_sapiens.GRCh38.87.gtf.gz,downloaded_original
+Homo_sapiens.GRCh38.release87.cdna_ncrna.fa,375580761,bd7945aab818a122813c046e248b00c6772a9b837e100fbddb337fa5b734affa,derived locally from Ensembl 87 inputs,derived_combined_transcriptome
+tx2gene.tsv,7522732,975fef5398233a6d70de39974a4956bbfcf91ac80ae3c4107d8265d4e7d819da,derived locally from Ensembl 87 inputs,derived_transcript_gene_map

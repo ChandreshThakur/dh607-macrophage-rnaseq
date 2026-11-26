@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "dh607-macrophage-research"
+version = "0.1.0"
+description = "Reproducible analysis of IFN-gamma priming and Salmonella infection in human macrophages"
+requires-python = ">=3.11"
+dependencies = [
+  "numpy>=2.0",
+  "pandas>=2.2",
+  "scipy>=1.13",
+  "scikit-learn>=1.5",
+  "matplotlib>=3.9",
+  "seaborn>=0.13",
+  "pydeseq2==0.5.4",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8", "nbformat>=5", "jupyter>=1"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]

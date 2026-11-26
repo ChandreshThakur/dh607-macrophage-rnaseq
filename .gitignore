@@ -1,0 +1,42 @@
+# Downloaded data and analysis outputs
+/data/published/
+/data/raw_fastq/
+/data/reference/
+/data/processed/
+/data/manifests/ifnl_read_validation_subset_manifest.tsv
+/data/manifests/final_output_checksums.csv
+/results/
+/notebooks/outputs/
+/docs/data_audit.md
+/docs/fastq_qc.md
+/docs/full_dataset_audit.md
+/docs/reference_strategy.md
+
+# Presentation editions and local documents
+*.pptx
+*.ppt
+*.pdf
+~$*
+!/presentation/DH607_final_presentation_updated.pptx
+
+# Tools, caches and temporary files
+/.tools/
+/.chart-data-*/
+/.codex/
+/tmp/
+/output/
+/=*
+.venv/
+venv/
+.conda-env/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.pytest_tmp*/
+.ipynb_checkpoints/
+.vscode/
+.DS_Store
+Thumbs.db
+.env
+.env.local

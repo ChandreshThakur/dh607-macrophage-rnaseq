@@ -1,0 +1,4 @@
+filename,source_url,size_bytes,sha256
+go-basic.obo,https://current.geneontology.org/ontology/go-basic.obo,32227785,b08d45b268b8c24ccb2513dbbbc7d4df9f6521c099b413f79eb31e06e0fa3bcc
+goa_human.gaf.gz,https://current.geneontology.org/annotations/goa_human.gaf.gz,15041996,db472faff1785878521693af62646546cea6af4a386609dd01c72c0554a46a30
+Homo_sapiens.GRCh38.cdna.all.release79.fa.gz,https://ftp.ensembl.org/pub/release-79/fasta/homo_sapiens/cdna/Homo_sapiens.GRCh38.cdna.all.fa.gz,60587660,4b0ffb53c462bcf2012ab54d9484e39fa0d7c3637ec6d1dad385e0cafd9e0560

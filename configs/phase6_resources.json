@@ -1,0 +1,10 @@
+{
+  "measured_at": "2026-10-27",
+  "machine": {
+    "total_disk_gib": 452.86,
+    "free_disk_gib": 69.84,
+    "total_ram_gib": 15.69,
+    "logical_processors": 16
+  },
+  "measurement_note": "Disk measured with System.IO.DriveInfo; RAM and CPU measured with Win32_ComputerSystem before any FASTQ download."
+}

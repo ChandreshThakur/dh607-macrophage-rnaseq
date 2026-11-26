@@ -1,0 +1,4 @@
+filename,size_bytes,local_md5,authoritative_md5,checksum_verified,source_url,model
+naive_vs_IFNg_DESeq2_fold_change.txt.gz,1701488,d30c466506cf7b6cb784ced7a9e4a68d,d30c466506cf7b6cb784ced7a9e4a68d,True,https://zenodo.org/records/839011,"DESeq2 1.10.0 LRT: full ~condition_name, reduced ~1"
+naive_vs_Salmonella_DESeq2_fold_change.txt.gz,1696396,3fa2cf63753e72e1f5c884b9bcb1235c,3fa2cf63753e72e1f5c884b9bcb1235c,True,https://zenodo.org/records/839011,"DESeq2 1.10.0 LRT: full ~condition_name, reduced ~1"
+naive_vs_IFNg+Salmonella_DESeq2_fold_change.txt.gz,1694658,5dfbed8bf82addcc42b8bba8f40f0a19,5dfbed8bf82addcc42b8bba8f40f0a19,True,https://zenodo.org/records/839011,"DESeq2 1.10.0 LRT: full ~condition_name, reduced ~1"

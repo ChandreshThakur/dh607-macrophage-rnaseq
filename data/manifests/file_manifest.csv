@@ -1,0 +1,13 @@
+filename,relative_path,size_bytes,local_md5,authoritative_md5,source_url,exists,gzip_integrity,checksum_verified,duplicate_content,verification_status
+eipl_A.1.fastq.gz,data/raw_fastq/eipl_A.1.fastq.gz,20520217,d9db52f6da5ae681846e1161cf61732b,d9db52f6da5ae681846e1161cf61732b,https://zenodo.org/records/1173306,True,True,True,False,verified
+eipl_A.2.fastq.gz,data/raw_fastq/eipl_A.2.fastq.gz,21259240,1dd392dde3dba47c34750d7760415e82,1dd392dde3dba47c34750d7760415e82,https://zenodo.org/records/1173306,True,True,True,False,verified
+eipl_C.1.fastq.gz,data/raw_fastq/eipl_C.1.fastq.gz,30146268,a8138ed9489c65bd70d8ad0ee2aa0343,a8138ed9489c65bd70d8ad0ee2aa0343,https://zenodo.org/records/1173306,True,True,True,False,verified
+eipl_C.2.fastq.gz,data/raw_fastq/eipl_C.2.fastq.gz,31305687,2cdbcb09b1f395c0397ce5bd6f2e2c69,2cdbcb09b1f395c0397ce5bd6f2e2c69,https://zenodo.org/records/1173306,True,True,True,False,verified
+fikt_A.1.fastq.gz,data/raw_fastq/fikt_A.1.fastq.gz,25635774,659d77ea828e93f44939fd8e0f52f4cc,659d77ea828e93f44939fd8e0f52f4cc,https://zenodo.org/records/1173306,True,True,True,False,verified
+fikt_A.2.fastq.gz,data/raw_fastq/fikt_A.2.fastq.gz,27390683,ee76288ad4d03d5fcb2ce0ed114ed34f,ee76288ad4d03d5fcb2ce0ed114ed34f,https://zenodo.org/records/1173306,True,True,True,False,verified
+fikt_C.1.fastq.gz,data/raw_fastq/fikt_C.1.fastq.gz,26886956,36bffc47f830a5f1e7942396fd6dc7d4,36bffc47f830a5f1e7942396fd6dc7d4,https://zenodo.org/records/1173306,True,True,True,False,verified
+fikt_C.2.fastq.gz,data/raw_fastq/fikt_C.2.fastq.gz,28299353,9c14f31a97da19bd876c955e5e3fc7e9,9c14f31a97da19bd876c955e5e3fc7e9,https://zenodo.org/records/1173306,True,True,True,False,verified
+RNA_count_matrix.txt.gz,data/published/RNA_count_matrix.txt.gz,10911973,ea78bce7df317921aa3c24ae22d971b7,ea78bce7df317921aa3c24ae22d971b7,https://zenodo.org/records/1188300,True,True,True,False,verified
+RNA_cqn_matrix.txt.gz,data/published/RNA_cqn_matrix.txt.gz,28376630,a302dd9912afeb4cf4fa69d5f990e8fd,a302dd9912afeb4cf4fa69d5f990e8fd,https://zenodo.org/records/1188300,True,True,True,False,verified
+RNA_gene_metadata.txt.gz,data/published/RNA_gene_metadata.txt.gz,2947865,e625f24fcf331301385455f577a79c8e,e625f24fcf331301385455f577a79c8e,https://zenodo.org/records/1188300,True,True,True,False,verified
+RNA_sample_metadata.txt.gz,data/published/RNA_sample_metadata.txt.gz,10423,e575d50dea2a261c6f274df725eed1b3,e575d50dea2a261c6f274df725eed1b3,https://zenodo.org/records/1188300,True,True,True,False,verified
